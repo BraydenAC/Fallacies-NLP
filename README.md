@@ -10,3 +10,5 @@ Thanks for checking it out!
 - Open a new terminal, then type "dotnet run"
 - Follow the given instructions in the interface
 - Your good to go!
+## Generative AI Statement
+ChatGPT was used to help create program.vb and server.py, as my foundations are shaky in Visual Basic

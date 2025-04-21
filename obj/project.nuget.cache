@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9G+VioITJBoB5mX9LLJ8miImOrKy/hYnpt+5r86M/3om+Y9xpiTvkqCcdM+cXD9XAKWhMwpxiIS7KegxL986OA==",
+  "success": true,
+  "projectFilePath": "/home/brayden/final_project/final_project.vbproj",
+  "expectedPackageFiles": [
+    "/home/brayden/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/home/brayden/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/home/brayden/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/home/brayden/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/home/brayden/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/home/brayden/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/home/brayden/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512"
+  ],
+  "logs": []
+}

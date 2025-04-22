@@ -46,4 +46,3 @@ def process_input(input):
     except Exception as e:
         print(f"Error generating explanation: {e}")
         return f"An error was encountered while generating a full explanation, but a {pred} fallacy was detected."
-# print(hf_login("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"))

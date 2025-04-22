@@ -21,3 +21,4 @@
 /home/brayden/final_project/bin/Debug/net8.0/PangoSharp.dll
 /home/brayden/final_project/obj/Debug/net8.0/final_project.vbproj.AssemblyReference.cache
 /home/brayden/final_project/obj/Debug/net8.0/final_project.vbproj.CopyComplete
+/home/brayden/final_project/obj/Debug/net8.0/final_project.sourcelink.json
